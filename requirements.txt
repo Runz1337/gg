@@ -1,0 +1,8 @@
+torch
+transformers
+scipy
+ftfy 
+accelerate
+diffusers
+flask 
+flask_ngrok
